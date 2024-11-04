@@ -1,0 +1,4 @@
+# all folder .vscode
+.vscode/
+.DS_Store
+loginSnowMan/.vscode
